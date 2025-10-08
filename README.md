@@ -1,5 +1,6 @@
 The Bitcho is an experimental simulation of a digital organism. 
-Built from binary trigrams and hexagrams (☰–☷). 000-111 000.000-111.111
+Built from binary trigrams and hexagrams (☰–☷) 
+000-111 000.000-111.111
 Each cell in the universe combines logical gates (AND, OR, XOR, NAND, NOR, XNOR…)
 that evolve, mutate, and interact with their neighbors.
 
